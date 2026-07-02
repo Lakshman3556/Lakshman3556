@@ -15,7 +15,7 @@
 
 ```yaml
 name: Bandari Lakshmana Prasad
-role: 3rd Year, B.E. Information Technology @ CBIT, Hyderabad
+role: 4rd Year, B.E. Information Technology @ CBIT, Hyderabad
 graduation: 2027
 focus: GenAI • Agentic Systems • Backend Engineering • Full-Stack Development
 currently_building: CineQuery AI (RAG) & Trip — leveling up my portfolio with GenAI & agentic AI projects
