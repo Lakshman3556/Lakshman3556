@@ -21,7 +21,7 @@ focus: GenAI • Agentic Systems • Backend Engineering • Full-Stack Developm
 currently_building: CineQuery AI (RAG) & Trip — leveling up my portfolio with GenAI & agentic AI projects
 ```
 
-- 🔭 Building **CineQuery AI**, a conversational RAG assistant over a 40K+ movie dataset — live at [cinequer.netlify.app](https://cinequer.netlify.app/)
+- 🔭 **CineQuery AI**, a conversational RAG assistant over a 40K+ movie dataset — live at [cinequer.netlify.app](https://cinequer.netlify.app/)
 - 🌱 Leveling up my portfolio with **GenAI and agentic AI** — RAG pipelines, vector search, semantic re-ranking, real-time streaming systems
 - ⚡ Also built a **real-time streaming pipeline** with Kafka + Spark Structured Streaming for smart traffic analytics
 - 🤝 Open to **AI/ML internships** and collaborative full-stack / GenAI projects
