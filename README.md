@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lakshmana Prasad Bandari 👋</h1>
+<h1 align="center">Hi, I'm Bandari Lakshmana Prasad 👋</h1>
 <h3 align="center">AI/ML Engineer in the making • Full-Stack Developer • IT @ CBIT Hyderabad</h3>
 
 <p align="center">
